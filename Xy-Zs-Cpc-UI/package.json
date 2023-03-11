@@ -50,5 +50,10 @@
     "vite-plugin-compression": "0.5.1",
     "vite-plugin-svg-icons": "1.0.5",
     "vite-plugin-vue-setup-extend": "0.4.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "eslint-plugin-vue"
+    ]
   }
 }
